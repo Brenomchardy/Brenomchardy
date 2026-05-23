@@ -1,8 +1,9 @@
 👋 Olá, sou @Brenomchardy
 
 👀 Estou sempre interessado em tecnologia, soluções em TI, automações e developer full stack.
+Criação de sistemas ERP, atráves de vibe code. 
 
-🌱 Atualmente estou aprendendo mais sobre back-end e front-end.
+🌱 Atualmente estou aprendendo mais sobre backend e frontend.
 
 💞️ Estou procurando colaborar em projetos de desenvolvimentos de softwares.  
 
