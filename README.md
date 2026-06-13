@@ -1,13 +1,9 @@
-👋 Olá, sou @Brenomchardy
+ Olá, sou @Brenomchardy
 
-👀 Estou sempre interessado em tecnologia, soluções em TI, automações e developer full stack.
-Criação de sistemas ERP, atráves de vibe code. 
+ Estou sempre interessado em tecnologia, soluções em TI, automações e developer full stack.
+Criação de sistemas ERP, atráves de vibe code.  
 
-🌱 Atualmente estou aprendendo mais sobre backend e frontend.
-
-💞️ Estou procurando colaborar em projetos de desenvolvimentos de softwares.  
-
-📫 Como entrar em contato comigo: brenomchardy@email.com ou via LinkedIn.
+Como entrar em contato comigo: brenomchardy@email.com ou via LinkedIn.
 
 ⚡ Curiosidade: Antes de migrar para a área de TI, trabalhei por vários anos com atendimento ao público na área hospitalar – 
 a transição me trouxe uma visão humana que aplico diariamente no suporte técnico.
